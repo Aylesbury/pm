@@ -149,3 +149,4 @@
 	Возврат Номенклатура.Цена
 КонецФункции
 ```
+![image](https://github.com/Aylesbury/pm/assets/56831140/8cdcc386-56ef-48d2-a576-adfdb13cd379)
